@@ -1,0 +1,603 @@
+Country,ISO3,Region,Name,Exposure Mean,Year,Pollutant,Pollutant Name,Region Name
+Iceland,ISL,region,Western Europe,7.22,1990,pm25,PM25,GBD Regions
+Albania,ALB,region,Central Europe,24.1,1995,pm25,PM25,GBD Regions
+Albania,ALB,region,Central Europe,24.3,2000,pm25,PM25,GBD Regions
+Albania,ALB,region,Central Europe,22.2,2005,pm25,PM25,GBD Regions
+Albania,ALB,region,Central Europe,21.6,2010,pm25,PM25,GBD Regions
+Albania,ALB,region,Central Europe,23.4,2011,pm25,PM25,GBD Regions
+Albania,ALB,region,Central Europe,21.6,2012,pm25,PM25,GBD Regions
+Albania,ALB,region,Central Europe,20.1,2013,pm25,PM25,GBD Regions
+Albania,ALB,region,Central Europe,19.9,2014,pm25,PM25,GBD Regions
+Albania,ALB,region,Central Europe,19.5,2015,pm25,PM25,GBD Regions
+Albania,ALB,region,Central Europe,17.8,2016,pm25,PM25,GBD Regions
+Albania,ALB,region,Central Europe,19,2017,pm25,PM25,GBD Regions
+Albania,ALB,region,Central Europe,18.8,2018,pm25,PM25,GBD Regions
+Albania,ALB,region,Central Europe,18.6,2019,pm25,PM25,GBD Regions
+Finland,FIN,region,Western Europe,8.8,1990,pm25,PM25,GBD Regions
+Andorra,AND,region,Western Europe,12.9,1995,pm25,PM25,GBD Regions
+Andorra,AND,region,Western Europe,13.6,2000,pm25,PM25,GBD Regions
+Andorra,AND,region,Western Europe,12.2,2005,pm25,PM25,GBD Regions
+Andorra,AND,region,Western Europe,11.3,2010,pm25,PM25,GBD Regions
+Andorra,AND,region,Western Europe,12.3,2011,pm25,PM25,GBD Regions
+Andorra,AND,region,Western Europe,11.2,2012,pm25,PM25,GBD Regions
+Andorra,AND,region,Western Europe,10.2,2013,pm25,PM25,GBD Regions
+Andorra,AND,region,Western Europe,9.59,2014,pm25,PM25,GBD Regions
+Andorra,AND,region,Western Europe,10.3,2015,pm25,PM25,GBD Regions
+Andorra,AND,region,Western Europe,8.94,2016,pm25,PM25,GBD Regions
+Andorra,AND,region,Western Europe,9.14,2017,pm25,PM25,GBD Regions
+Andorra,AND,region,Western Europe,9.18,2018,pm25,PM25,GBD Regions
+Andorra,AND,region,Western Europe,9.07,2019,pm25,PM25,GBD Regions
+Sweden,SWE,region,Western Europe,9.78,1990,pm25,PM25,GBD Regions
+Austria,AUT,region,Western Europe,20.1,1995,pm25,PM25,GBD Regions
+Austria,AUT,region,Western Europe,17.3,2000,pm25,PM25,GBD Regions
+Austria,AUT,region,Western Europe,16.5,2005,pm25,PM25,GBD Regions
+Austria,AUT,region,Western Europe,15.7,2010,pm25,PM25,GBD Regions
+Austria,AUT,region,Western Europe,16.1,2011,pm25,PM25,GBD Regions
+Austria,AUT,region,Western Europe,14.5,2012,pm25,PM25,GBD Regions
+Austria,AUT,region,Western Europe,14.5,2013,pm25,PM25,GBD Regions
+Austria,AUT,region,Western Europe,12.8,2014,pm25,PM25,GBD Regions
+Austria,AUT,region,Western Europe,13.4,2015,pm25,PM25,GBD Regions
+Austria,AUT,region,Western Europe,12.3,2016,pm25,PM25,GBD Regions
+Austria,AUT,region,Western Europe,12,2017,pm25,PM25,GBD Regions
+Austria,AUT,region,Western Europe,12.3,2018,pm25,PM25,GBD Regions
+Austria,AUT,region,Western Europe,12.2,2019,pm25,PM25,GBD Regions
+Estonia,EST,region,Eastern Europe,9.91,1990,pm25,PM25,GBD Regions
+Belarus,BLR,region,Eastern Europe,23.1,1995,pm25,PM25,GBD Regions
+Belarus,BLR,region,Eastern Europe,21.8,2000,pm25,PM25,GBD Regions
+Belarus,BLR,region,Eastern Europe,21,2005,pm25,PM25,GBD Regions
+Belarus,BLR,region,Eastern Europe,22.1,2010,pm25,PM25,GBD Regions
+Belarus,BLR,region,Eastern Europe,19.6,2011,pm25,PM25,GBD Regions
+Belarus,BLR,region,Eastern Europe,18.9,2012,pm25,PM25,GBD Regions
+Belarus,BLR,region,Eastern Europe,19.8,2013,pm25,PM25,GBD Regions
+Belarus,BLR,region,Eastern Europe,20.2,2014,pm25,PM25,GBD Regions
+Belarus,BLR,region,Eastern Europe,18.5,2015,pm25,PM25,GBD Regions
+Belarus,BLR,region,Eastern Europe,16.7,2016,pm25,PM25,GBD Regions
+Belarus,BLR,region,Eastern Europe,16.4,2017,pm25,PM25,GBD Regions
+Belarus,BLR,region,Eastern Europe,16.5,2018,pm25,PM25,GBD Regions
+Belarus,BLR,region,Eastern Europe,16.4,2019,pm25,PM25,GBD Regions
+Monaco,MCO,region,Western Europe,10.2,1990,pm25,PM25,GBD Regions
+Belgium,BEL,region,Western Europe,19.7,1995,pm25,PM25,GBD Regions
+Belgium,BEL,region,Western Europe,17.6,2000,pm25,PM25,GBD Regions
+Belgium,BEL,region,Western Europe,15.8,2005,pm25,PM25,GBD Regions
+Belgium,BEL,region,Western Europe,16.9,2010,pm25,PM25,GBD Regions
+Belgium,BEL,region,Western Europe,16.1,2011,pm25,PM25,GBD Regions
+Belgium,BEL,region,Western Europe,15.1,2012,pm25,PM25,GBD Regions
+Belgium,BEL,region,Western Europe,14.2,2013,pm25,PM25,GBD Regions
+Belgium,BEL,region,Western Europe,12.8,2014,pm25,PM25,GBD Regions
+Belgium,BEL,region,Western Europe,13.2,2015,pm25,PM25,GBD Regions
+Belgium,BEL,region,Western Europe,12.4,2016,pm25,PM25,GBD Regions
+Belgium,BEL,region,Western Europe,12.8,2017,pm25,PM25,GBD Regions
+Belgium,BEL,region,Western Europe,12.8,2018,pm25,PM25,GBD Regions
+Belgium,BEL,region,Western Europe,12.7,2019,pm25,PM25,GBD Regions
+Portugal,PRT,region,Western Europe,11.6,1990,pm25,PM25,GBD Regions
+Bosnia and Herzegovina,BIH,region,Central Europe,36.3,1995,pm25,PM25,GBD Regions
+Bosnia and Herzegovina,BIH,region,Central Europe,38.2,2000,pm25,PM25,GBD Regions
+Bosnia and Herzegovina,BIH,region,Central Europe,36,2005,pm25,PM25,GBD Regions
+Bosnia and Herzegovina,BIH,region,Central Europe,34.4,2010,pm25,PM25,GBD Regions
+Bosnia and Herzegovina,BIH,region,Central Europe,38.1,2011,pm25,PM25,GBD Regions
+Bosnia and Herzegovina,BIH,region,Central Europe,34.5,2012,pm25,PM25,GBD Regions
+Bosnia and Herzegovina,BIH,region,Central Europe,33,2013,pm25,PM25,GBD Regions
+Bosnia and Herzegovina,BIH,region,Central Europe,31.6,2014,pm25,PM25,GBD Regions
+Bosnia and Herzegovina,BIH,region,Central Europe,32.9,2015,pm25,PM25,GBD Regions
+Bosnia and Herzegovina,BIH,region,Central Europe,28.8,2016,pm25,PM25,GBD Regions
+Bosnia and Herzegovina,BIH,region,Central Europe,29.9,2017,pm25,PM25,GBD Regions
+Bosnia and Herzegovina,BIH,region,Central Europe,29.9,2018,pm25,PM25,GBD Regions
+Bosnia and Herzegovina,BIH,region,Central Europe,29.5,2019,pm25,PM25,GBD Regions
+Norway,NOR,region,Western Europe,11.8,1990,pm25,PM25,GBD Regions
+Bulgaria,BGR,region,Central Europe,26.7,1995,pm25,PM25,GBD Regions
+Bulgaria,BGR,region,Central Europe,26,2000,pm25,PM25,GBD Regions
+Bulgaria,BGR,region,Central Europe,23.9,2005,pm25,PM25,GBD Regions
+Bulgaria,BGR,region,Central Europe,22.8,2010,pm25,PM25,GBD Regions
+Bulgaria,BGR,region,Central Europe,25.6,2011,pm25,PM25,GBD Regions
+Bulgaria,BGR,region,Central Europe,22.6,2012,pm25,PM25,GBD Regions
+Bulgaria,BGR,region,Central Europe,21.2,2013,pm25,PM25,GBD Regions
+Bulgaria,BGR,region,Central Europe,21.6,2014,pm25,PM25,GBD Regions
+Bulgaria,BGR,region,Central Europe,20.3,2015,pm25,PM25,GBD Regions
+Bulgaria,BGR,region,Central Europe,19.4,2016,pm25,PM25,GBD Regions
+Bulgaria,BGR,region,Central Europe,19.7,2017,pm25,PM25,GBD Regions
+Bulgaria,BGR,region,Central Europe,19.7,2018,pm25,PM25,GBD Regions
+Bulgaria,BGR,region,Central Europe,19.4,2019,pm25,PM25,GBD Regions
+San Marino,SMR,region,Western Europe,12.6,1990,pm25,PM25,GBD Regions
+Croatia,HRV,region,Central Europe,25.7,1995,pm25,PM25,GBD Regions
+Croatia,HRV,region,Central Europe,23.7,2000,pm25,PM25,GBD Regions
+Croatia,HRV,region,Central Europe,23.1,2005,pm25,PM25,GBD Regions
+Croatia,HRV,region,Central Europe,21.2,2010,pm25,PM25,GBD Regions
+Croatia,HRV,region,Central Europe,23.2,2011,pm25,PM25,GBD Regions
+Croatia,HRV,region,Central Europe,20.6,2012,pm25,PM25,GBD Regions
+Croatia,HRV,region,Central Europe,20,2013,pm25,PM25,GBD Regions
+Croatia,HRV,region,Central Europe,19.5,2014,pm25,PM25,GBD Regions
+Croatia,HRV,region,Central Europe,19.9,2015,pm25,PM25,GBD Regions
+Croatia,HRV,region,Central Europe,17.7,2016,pm25,PM25,GBD Regions
+Croatia,HRV,region,Central Europe,18.3,2017,pm25,PM25,GBD Regions
+Croatia,HRV,region,Central Europe,18.6,2018,pm25,PM25,GBD Regions
+Croatia,HRV,region,Central Europe,18.5,2019,pm25,PM25,GBD Regions
+Ireland,IRL,region,Western Europe,12.7,1990,pm25,PM25,GBD Regions
+Cyprus,CYP,region,Western Europe,18.8,1995,pm25,PM25,GBD Regions
+Cyprus,CYP,region,Western Europe,18.5,2000,pm25,PM25,GBD Regions
+Cyprus,CYP,region,Western Europe,18,2005,pm25,PM25,GBD Regions
+Cyprus,CYP,region,Western Europe,18.8,2010,pm25,PM25,GBD Regions
+Cyprus,CYP,region,Western Europe,18.5,2011,pm25,PM25,GBD Regions
+Cyprus,CYP,region,Western Europe,16.8,2012,pm25,PM25,GBD Regions
+Cyprus,CYP,region,Western Europe,16.3,2013,pm25,PM25,GBD Regions
+Cyprus,CYP,region,Western Europe,16.4,2014,pm25,PM25,GBD Regions
+Cyprus,CYP,region,Western Europe,17.1,2015,pm25,PM25,GBD Regions
+Cyprus,CYP,region,Western Europe,14.4,2016,pm25,PM25,GBD Regions
+Cyprus,CYP,region,Western Europe,15.1,2017,pm25,PM25,GBD Regions
+Cyprus,CYP,region,Western Europe,15.6,2018,pm25,PM25,GBD Regions
+Cyprus,CYP,region,Western Europe,15.6,2019,pm25,PM25,GBD Regions
+Spain,ESP,region,Western Europe,14,1990,pm25,PM25,GBD Regions
+Czechia,CZE,region,Central Europe,24.9,1995,pm25,PM25,GBD Regions
+Czechia,CZE,region,Central Europe,21.4,2000,pm25,PM25,GBD Regions
+Czechia,CZE,region,Central Europe,20.9,2005,pm25,PM25,GBD Regions
+Czechia,CZE,region,Central Europe,20.5,2010,pm25,PM25,GBD Regions
+Czechia,CZE,region,Central Europe,20.8,2011,pm25,PM25,GBD Regions
+Czechia,CZE,region,Central Europe,19,2012,pm25,PM25,GBD Regions
+Czechia,CZE,region,Central Europe,18.7,2013,pm25,PM25,GBD Regions
+Czechia,CZE,region,Central Europe,18.2,2014,pm25,PM25,GBD Regions
+Czechia,CZE,region,Central Europe,17.6,2015,pm25,PM25,GBD Regions
+Czechia,CZE,region,Central Europe,16.7,2016,pm25,PM25,GBD Regions
+Czechia,CZE,region,Central Europe,16.7,2017,pm25,PM25,GBD Regions
+Czechia,CZE,region,Central Europe,17,2018,pm25,PM25,GBD Regions
+Czechia,CZE,region,Central Europe,16.8,2019,pm25,PM25,GBD Regions
+Andorra,AND,region,Western Europe,14.3,1990,pm25,PM25,GBD Regions
+Denmark,DNK,region,Western Europe,15.4,1995,pm25,PM25,GBD Regions
+Denmark,DNK,region,Western Europe,14.5,2000,pm25,PM25,GBD Regions
+Denmark,DNK,region,Western Europe,13.1,2005,pm25,PM25,GBD Regions
+Denmark,DNK,region,Western Europe,13.3,2010,pm25,PM25,GBD Regions
+Denmark,DNK,region,Western Europe,13.6,2011,pm25,PM25,GBD Regions
+Denmark,DNK,region,Western Europe,10.8,2012,pm25,PM25,GBD Regions
+Denmark,DNK,region,Western Europe,10.4,2013,pm25,PM25,GBD Regions
+Denmark,DNK,region,Western Europe,11,2014,pm25,PM25,GBD Regions
+Denmark,DNK,region,Western Europe,10.2,2015,pm25,PM25,GBD Regions
+Denmark,DNK,region,Western Europe,9.29,2016,pm25,PM25,GBD Regions
+Denmark,DNK,region,Western Europe,10.3,2017,pm25,PM25,GBD Regions
+Denmark,DNK,region,Western Europe,9.87,2018,pm25,PM25,GBD Regions
+Denmark,DNK,region,Western Europe,9.79,2019,pm25,PM25,GBD Regions
+Luxembourg,LUX,region,Western Europe,16.2,1990,pm25,PM25,GBD Regions
+Estonia,EST,region,Eastern Europe,9.33,1995,pm25,PM25,GBD Regions
+Estonia,EST,region,Eastern Europe,8.43,2000,pm25,PM25,GBD Regions
+Estonia,EST,region,Eastern Europe,8.36,2005,pm25,PM25,GBD Regions
+Estonia,EST,region,Eastern Europe,8.65,2010,pm25,PM25,GBD Regions
+Estonia,EST,region,Eastern Europe,7.75,2011,pm25,PM25,GBD Regions
+Estonia,EST,region,Eastern Europe,7.48,2012,pm25,PM25,GBD Regions
+Estonia,EST,region,Eastern Europe,7.54,2013,pm25,PM25,GBD Regions
+Estonia,EST,region,Eastern Europe,8.1,2014,pm25,PM25,GBD Regions
+Estonia,EST,region,Eastern Europe,6.56,2015,pm25,PM25,GBD Regions
+Estonia,EST,region,Eastern Europe,6.52,2016,pm25,PM25,GBD Regions
+Estonia,EST,region,Eastern Europe,5.68,2017,pm25,PM25,GBD Regions
+Estonia,EST,region,Eastern Europe,5.99,2018,pm25,PM25,GBD Regions
+Estonia,EST,region,Eastern Europe,5.89,2019,pm25,PM25,GBD Regions
+Malta,MLT,region,Western Europe,16.5,1990,pm25,PM25,GBD Regions
+Finland,FIN,region,Western Europe,8.14,1995,pm25,PM25,GBD Regions
+Finland,FIN,region,Western Europe,7.51,2000,pm25,PM25,GBD Regions
+Finland,FIN,region,Western Europe,7.11,2005,pm25,PM25,GBD Regions
+Finland,FIN,region,Western Europe,7.21,2010,pm25,PM25,GBD Regions
+Finland,FIN,region,Western Europe,7.02,2011,pm25,PM25,GBD Regions
+Finland,FIN,region,Western Europe,6.36,2012,pm25,PM25,GBD Regions
+Finland,FIN,region,Western Europe,5.98,2013,pm25,PM25,GBD Regions
+Finland,FIN,region,Western Europe,6.37,2014,pm25,PM25,GBD Regions
+Finland,FIN,region,Western Europe,5.63,2015,pm25,PM25,GBD Regions
+Finland,FIN,region,Western Europe,5.59,2016,pm25,PM25,GBD Regions
+Finland,FIN,region,Western Europe,5.26,2017,pm25,PM25,GBD Regions
+Finland,FIN,region,Western Europe,5.6,2018,pm25,PM25,GBD Regions
+Finland,FIN,region,Western Europe,5.57,2019,pm25,PM25,GBD Regions
+Denmark,DNK,region,Western Europe,17.3,1990,pm25,PM25,GBD Regions
+France,FRA,region,Western Europe,17.2,1995,pm25,PM25,GBD Regions
+France,FRA,region,Western Europe,16.1,2000,pm25,PM25,GBD Regions
+France,FRA,region,Western Europe,14.9,2005,pm25,PM25,GBD Regions
+France,FRA,region,Western Europe,15.1,2010,pm25,PM25,GBD Regions
+France,FRA,region,Western Europe,15,2011,pm25,PM25,GBD Regions
+France,FRA,region,Western Europe,13.7,2012,pm25,PM25,GBD Regions
+France,FRA,region,Western Europe,13.6,2013,pm25,PM25,GBD Regions
+France,FRA,region,Western Europe,11.6,2014,pm25,PM25,GBD Regions
+France,FRA,region,Western Europe,12.3,2015,pm25,PM25,GBD Regions
+France,FRA,region,Western Europe,11.5,2016,pm25,PM25,GBD Regions
+France,FRA,region,Western Europe,11.4,2017,pm25,PM25,GBD Regions
+France,FRA,region,Western Europe,11.5,2018,pm25,PM25,GBD Regions
+France,FRA,region,Western Europe,11.4,2019,pm25,PM25,GBD Regions
+United Kingdom,GBR,region,Western Europe,17.4,1990,pm25,PM25,GBD Regions
+Germany,DEU,region,Western Europe,18.6,1995,pm25,PM25,GBD Regions
+Germany,DEU,region,Western Europe,16.4,2000,pm25,PM25,GBD Regions
+Germany,DEU,region,Western Europe,15.1,2005,pm25,PM25,GBD Regions
+Germany,DEU,region,Western Europe,16.1,2010,pm25,PM25,GBD Regions
+Germany,DEU,region,Western Europe,15.6,2011,pm25,PM25,GBD Regions
+Germany,DEU,region,Western Europe,13.8,2012,pm25,PM25,GBD Regions
+Germany,DEU,region,Western Europe,13.6,2013,pm25,PM25,GBD Regions
+Germany,DEU,region,Western Europe,12.2,2014,pm25,PM25,GBD Regions
+Germany,DEU,region,Western Europe,12.7,2015,pm25,PM25,GBD Regions
+Germany,DEU,region,Western Europe,11.8,2016,pm25,PM25,GBD Regions
+Germany,DEU,region,Western Europe,11.9,2017,pm25,PM25,GBD Regions
+Germany,DEU,region,Western Europe,11.9,2018,pm25,PM25,GBD Regions
+Germany,DEU,region,Western Europe,11.8,2019,pm25,PM25,GBD Regions
+Cyprus,CYP,region,Western Europe,17.5,1990,pm25,PM25,GBD Regions
+Greece,GRC,region,Western Europe,20.1,1995,pm25,PM25,GBD Regions
+Greece,GRC,region,Western Europe,20.7,2000,pm25,PM25,GBD Regions
+Greece,GRC,region,Western Europe,19.2,2005,pm25,PM25,GBD Regions
+Greece,GRC,region,Western Europe,19.1,2010,pm25,PM25,GBD Regions
+Greece,GRC,region,Western Europe,19.7,2011,pm25,PM25,GBD Regions
+Greece,GRC,region,Western Europe,17.4,2012,pm25,PM25,GBD Regions
+Greece,GRC,region,Western Europe,16.7,2013,pm25,PM25,GBD Regions
+Greece,GRC,region,Western Europe,15.7,2014,pm25,PM25,GBD Regions
+Greece,GRC,region,Western Europe,16,2015,pm25,PM25,GBD Regions
+Greece,GRC,region,Western Europe,14.5,2016,pm25,PM25,GBD Regions
+Greece,GRC,region,Western Europe,14.4,2017,pm25,PM25,GBD Regions
+Greece,GRC,region,Western Europe,14.5,2018,pm25,PM25,GBD Regions
+Greece,GRC,region,Western Europe,14.3,2019,pm25,PM25,GBD Regions
+Lithuania,LTU,region,Eastern Europe,17.5,1990,pm25,PM25,GBD Regions
+Hungary,HUN,region,Central Europe,25.1,1995,pm25,PM25,GBD Regions
+Hungary,HUN,region,Central Europe,21.3,2000,pm25,PM25,GBD Regions
+Hungary,HUN,region,Central Europe,20.3,2005,pm25,PM25,GBD Regions
+Hungary,HUN,region,Central Europe,20,2010,pm25,PM25,GBD Regions
+Hungary,HUN,region,Central Europe,20.7,2011,pm25,PM25,GBD Regions
+Hungary,HUN,region,Central Europe,18.4,2012,pm25,PM25,GBD Regions
+Hungary,HUN,region,Central Europe,17.5,2013,pm25,PM25,GBD Regions
+Hungary,HUN,region,Central Europe,17.5,2014,pm25,PM25,GBD Regions
+Hungary,HUN,region,Central Europe,17.5,2015,pm25,PM25,GBD Regions
+Hungary,HUN,region,Central Europe,15.7,2016,pm25,PM25,GBD Regions
+Hungary,HUN,region,Central Europe,16.6,2017,pm25,PM25,GBD Regions
+Hungary,HUN,region,Central Europe,16.6,2018,pm25,PM25,GBD Regions
+Hungary,HUN,region,Central Europe,16.5,2019,pm25,PM25,GBD Regions
+Switzerland,CHE,region,Western Europe,18,1990,pm25,PM25,GBD Regions
+Iceland,ISL,region,Western Europe,6.86,1995,pm25,PM25,GBD Regions
+Iceland,ISL,region,Western Europe,6.86,2000,pm25,PM25,GBD Regions
+Iceland,ISL,region,Western Europe,6.65,2005,pm25,PM25,GBD Regions
+Iceland,ISL,region,Western Europe,6.6,2010,pm25,PM25,GBD Regions
+Iceland,ISL,region,Western Europe,6.81,2011,pm25,PM25,GBD Regions
+Iceland,ISL,region,Western Europe,6.19,2012,pm25,PM25,GBD Regions
+Iceland,ISL,region,Western Europe,6.09,2013,pm25,PM25,GBD Regions
+Iceland,ISL,region,Western Europe,5.94,2014,pm25,PM25,GBD Regions
+Iceland,ISL,region,Western Europe,5.83,2015,pm25,PM25,GBD Regions
+Iceland,ISL,region,Western Europe,5.44,2016,pm25,PM25,GBD Regions
+Iceland,ISL,region,Western Europe,5.71,2017,pm25,PM25,GBD Regions
+Iceland,ISL,region,Western Europe,5.69,2018,pm25,PM25,GBD Regions
+Iceland,ISL,region,Western Europe,5.7,2019,pm25,PM25,GBD Regions
+France,FRA,region,Western Europe,18.6,1990,pm25,PM25,GBD Regions
+Ireland,IRL,region,Western Europe,11.9,1995,pm25,PM25,GBD Regions
+Ireland,IRL,region,Western Europe,11,2000,pm25,PM25,GBD Regions
+Ireland,IRL,region,Western Europe,10.5,2005,pm25,PM25,GBD Regions
+Ireland,IRL,region,Western Europe,9.9,2010,pm25,PM25,GBD Regions
+Ireland,IRL,region,Western Europe,10.1,2011,pm25,PM25,GBD Regions
+Ireland,IRL,region,Western Europe,9.16,2012,pm25,PM25,GBD Regions
+Ireland,IRL,region,Western Europe,8.79,2013,pm25,PM25,GBD Regions
+Ireland,IRL,region,Western Europe,8.52,2014,pm25,PM25,GBD Regions
+Ireland,IRL,region,Western Europe,8.38,2015,pm25,PM25,GBD Regions
+Ireland,IRL,region,Western Europe,7.84,2016,pm25,PM25,GBD Regions
+Ireland,IRL,region,Western Europe,7.66,2017,pm25,PM25,GBD Regions
+Ireland,IRL,region,Western Europe,7.92,2018,pm25,PM25,GBD Regions
+Ireland,IRL,region,Western Europe,7.85,2019,pm25,PM25,GBD Regions
+Russian Federation,RUS,region,Eastern Europe,18.8,1990,pm25,PM25,GBD Regions
+Italy,ITA,region,Western Europe,25.2,1995,pm25,PM25,GBD Regions
+Italy,ITA,region,Western Europe,24.2,2000,pm25,PM25,GBD Regions
+Italy,ITA,region,Western Europe,21.6,2005,pm25,PM25,GBD Regions
+Italy,ITA,region,Western Europe,20.3,2010,pm25,PM25,GBD Regions
+Italy,ITA,region,Western Europe,21.4,2011,pm25,PM25,GBD Regions
+Italy,ITA,region,Western Europe,18.8,2012,pm25,PM25,GBD Regions
+Italy,ITA,region,Western Europe,18.1,2013,pm25,PM25,GBD Regions
+Italy,ITA,region,Western Europe,17.1,2014,pm25,PM25,GBD Regions
+Italy,ITA,region,Western Europe,18,2015,pm25,PM25,GBD Regions
+Italy,ITA,region,Western Europe,15.8,2016,pm25,PM25,GBD Regions
+Italy,ITA,region,Western Europe,16.1,2017,pm25,PM25,GBD Regions
+Italy,ITA,region,Western Europe,16.3,2018,pm25,PM25,GBD Regions
+Italy,ITA,region,Western Europe,16.1,2019,pm25,PM25,GBD Regions
+Netherlands,NLD,region,Western Europe,19.9,1990,pm25,PM25,GBD Regions
+Latvia,LVA,region,Eastern Europe,19.5,1995,pm25,PM25,GBD Regions
+Latvia,LVA,region,Eastern Europe,17.2,2000,pm25,PM25,GBD Regions
+Latvia,LVA,region,Eastern Europe,17,2005,pm25,PM25,GBD Regions
+Latvia,LVA,region,Eastern Europe,18.1,2010,pm25,PM25,GBD Regions
+Latvia,LVA,region,Eastern Europe,15.8,2011,pm25,PM25,GBD Regions
+Latvia,LVA,region,Eastern Europe,15.2,2012,pm25,PM25,GBD Regions
+Latvia,LVA,region,Eastern Europe,15.6,2013,pm25,PM25,GBD Regions
+Latvia,LVA,region,Eastern Europe,16.2,2014,pm25,PM25,GBD Regions
+Latvia,LVA,region,Eastern Europe,13.8,2015,pm25,PM25,GBD Regions
+Latvia,LVA,region,Eastern Europe,12.9,2016,pm25,PM25,GBD Regions
+Latvia,LVA,region,Eastern Europe,11.8,2017,pm25,PM25,GBD Regions
+Latvia,LVA,region,Eastern Europe,12.2,2018,pm25,PM25,GBD Regions
+Latvia,LVA,region,Eastern Europe,12,2019,pm25,PM25,GBD Regions
+Greece,GRC,region,Western Europe,20.4,1990,pm25,PM25,GBD Regions
+Lithuania,LTU,region,Eastern Europe,16.4,1995,pm25,PM25,GBD Regions
+Lithuania,LTU,region,Eastern Europe,14.4,2000,pm25,PM25,GBD Regions
+Lithuania,LTU,region,Eastern Europe,14.1,2005,pm25,PM25,GBD Regions
+Lithuania,LTU,region,Eastern Europe,14.7,2010,pm25,PM25,GBD Regions
+Lithuania,LTU,region,Eastern Europe,13,2011,pm25,PM25,GBD Regions
+Lithuania,LTU,region,Eastern Europe,13,2012,pm25,PM25,GBD Regions
+Lithuania,LTU,region,Eastern Europe,13,2013,pm25,PM25,GBD Regions
+Lithuania,LTU,region,Eastern Europe,13.3,2014,pm25,PM25,GBD Regions
+Lithuania,LTU,region,Eastern Europe,11.8,2015,pm25,PM25,GBD Regions
+Lithuania,LTU,region,Eastern Europe,10.8,2016,pm25,PM25,GBD Regions
+Lithuania,LTU,region,Eastern Europe,10.2,2017,pm25,PM25,GBD Regions
+Lithuania,LTU,region,Eastern Europe,10.5,2018,pm25,PM25,GBD Regions
+Lithuania,LTU,region,Eastern Europe,10.4,2019,pm25,PM25,GBD Regions
+Germany,DEU,region,Western Europe,20.6,1990,pm25,PM25,GBD Regions
+Luxembourg,LUX,region,Western Europe,15,1995,pm25,PM25,GBD Regions
+Luxembourg,LUX,region,Western Europe,13.1,2000,pm25,PM25,GBD Regions
+Luxembourg,LUX,region,Western Europe,12.5,2005,pm25,PM25,GBD Regions
+Luxembourg,LUX,region,Western Europe,13.2,2010,pm25,PM25,GBD Regions
+Luxembourg,LUX,region,Western Europe,12.8,2011,pm25,PM25,GBD Regions
+Luxembourg,LUX,region,Western Europe,11.5,2012,pm25,PM25,GBD Regions
+Luxembourg,LUX,region,Western Europe,11.9,2013,pm25,PM25,GBD Regions
+Luxembourg,LUX,region,Western Europe,10.2,2014,pm25,PM25,GBD Regions
+Luxembourg,LUX,region,Western Europe,10.6,2015,pm25,PM25,GBD Regions
+Luxembourg,LUX,region,Western Europe,9.92,2016,pm25,PM25,GBD Regions
+Luxembourg,LUX,region,Western Europe,9.85,2017,pm25,PM25,GBD Regions
+Luxembourg,LUX,region,Western Europe,10.1,2018,pm25,PM25,GBD Regions
+Luxembourg,LUX,region,Western Europe,10.1,2019,pm25,PM25,GBD Regions
+Latvia,LVA,region,Eastern Europe,20.9,1990,pm25,PM25,GBD Regions
+Malta,MLT,region,Western Europe,16.6,1995,pm25,PM25,GBD Regions
+Malta,MLT,region,Western Europe,16,2000,pm25,PM25,GBD Regions
+Malta,MLT,region,Western Europe,15.3,2005,pm25,PM25,GBD Regions
+Malta,MLT,region,Western Europe,17.5,2010,pm25,PM25,GBD Regions
+Malta,MLT,region,Western Europe,16.2,2011,pm25,PM25,GBD Regions
+Malta,MLT,region,Western Europe,14.1,2012,pm25,PM25,GBD Regions
+Malta,MLT,region,Western Europe,13.3,2013,pm25,PM25,GBD Regions
+Malta,MLT,region,Western Europe,13.8,2014,pm25,PM25,GBD Regions
+Malta,MLT,region,Western Europe,13.5,2015,pm25,PM25,GBD Regions
+Malta,MLT,region,Western Europe,12.8,2016,pm25,PM25,GBD Regions
+Malta,MLT,region,Western Europe,12.5,2017,pm25,PM25,GBD Regions
+Malta,MLT,region,Western Europe,13,2018,pm25,PM25,GBD Regions
+Malta,MLT,region,Western Europe,13,2019,pm25,PM25,GBD Regions
+Belgium,BEL,region,Western Europe,21.1,1990,pm25,PM25,GBD Regions
+Monaco,MCO,region,Western Europe,9.5,1995,pm25,PM25,GBD Regions
+Monaco,MCO,region,Western Europe,16.2,2000,pm25,PM25,GBD Regions
+Monaco,MCO,region,Western Europe,15.1,2005,pm25,PM25,GBD Regions
+Monaco,MCO,region,Western Europe,14.3,2010,pm25,PM25,GBD Regions
+Monaco,MCO,region,Western Europe,15.6,2011,pm25,PM25,GBD Regions
+Monaco,MCO,region,Western Europe,13.9,2012,pm25,PM25,GBD Regions
+Monaco,MCO,region,Western Europe,13,2013,pm25,PM25,GBD Regions
+Monaco,MCO,region,Western Europe,11.9,2014,pm25,PM25,GBD Regions
+Monaco,MCO,region,Western Europe,13.1,2015,pm25,PM25,GBD Regions
+Monaco,MCO,region,Western Europe,11.4,2016,pm25,PM25,GBD Regions
+Monaco,MCO,region,Western Europe,11.5,2017,pm25,PM25,GBD Regions
+Monaco,MCO,region,Western Europe,11.8,2018,pm25,PM25,GBD Regions
+Monaco,MCO,region,Western Europe,11.7,2019,pm25,PM25,GBD Regions
+Austria,AUT,region,Western Europe,21.3,1990,pm25,PM25,GBD Regions
+Montenegro,MNE,region,Central Europe,32.3,1995,pm25,PM25,GBD Regions
+Montenegro,MNE,region,Central Europe,28.4,2000,pm25,PM25,GBD Regions
+Montenegro,MNE,region,Central Europe,25.7,2005,pm25,PM25,GBD Regions
+Montenegro,MNE,region,Central Europe,25.2,2010,pm25,PM25,GBD Regions
+Montenegro,MNE,region,Central Europe,27.8,2011,pm25,PM25,GBD Regions
+Montenegro,MNE,region,Central Europe,26.1,2012,pm25,PM25,GBD Regions
+Montenegro,MNE,region,Central Europe,24,2013,pm25,PM25,GBD Regions
+Montenegro,MNE,region,Central Europe,23.7,2014,pm25,PM25,GBD Regions
+Montenegro,MNE,region,Central Europe,23.4,2015,pm25,PM25,GBD Regions
+Montenegro,MNE,region,Central Europe,21.2,2016,pm25,PM25,GBD Regions
+Montenegro,MNE,region,Central Europe,21.9,2017,pm25,PM25,GBD Regions
+Montenegro,MNE,region,Central Europe,21.7,2018,pm25,PM25,GBD Regions
+Montenegro,MNE,region,Central Europe,21.3,2019,pm25,PM25,GBD Regions
+Romania,ROU,region,Central Europe,22.1,1990,pm25,PM25,GBD Regions
+Netherlands,NLD,region,Western Europe,18.6,1995,pm25,PM25,GBD Regions
+Netherlands,NLD,region,Western Europe,16.8,2000,pm25,PM25,GBD Regions
+Netherlands,NLD,region,Western Europe,15.3,2005,pm25,PM25,GBD Regions
+Netherlands,NLD,region,Western Europe,15.7,2010,pm25,PM25,GBD Regions
+Netherlands,NLD,region,Western Europe,15.5,2011,pm25,PM25,GBD Regions
+Netherlands,NLD,region,Western Europe,13.8,2012,pm25,PM25,GBD Regions
+Netherlands,NLD,region,Western Europe,12.7,2013,pm25,PM25,GBD Regions
+Netherlands,NLD,region,Western Europe,12.2,2014,pm25,PM25,GBD Regions
+Netherlands,NLD,region,Western Europe,12.7,2015,pm25,PM25,GBD Regions
+Netherlands,NLD,region,Western Europe,11.5,2016,pm25,PM25,GBD Regions
+Netherlands,NLD,region,Western Europe,12.4,2017,pm25,PM25,GBD Regions
+Netherlands,NLD,region,Western Europe,12.1,2018,pm25,PM25,GBD Regions
+Netherlands,NLD,region,Western Europe,12,2019,pm25,PM25,GBD Regions
+Republic of Moldova,MDA,region,Eastern Europe,22.4,1990,pm25,PM25,GBD Regions
+North Macedonia,MKD,region,Central Europe,44,1995,pm25,PM25,GBD Regions
+North Macedonia,MKD,region,Central Europe,41.7,2000,pm25,PM25,GBD Regions
+North Macedonia,MKD,region,Central Europe,37.2,2005,pm25,PM25,GBD Regions
+North Macedonia,MKD,region,Central Europe,35.8,2010,pm25,PM25,GBD Regions
+North Macedonia,MKD,region,Central Europe,41.1,2011,pm25,PM25,GBD Regions
+North Macedonia,MKD,region,Central Europe,36.8,2012,pm25,PM25,GBD Regions
+North Macedonia,MKD,region,Central Europe,33.9,2013,pm25,PM25,GBD Regions
+North Macedonia,MKD,region,Central Europe,34.8,2014,pm25,PM25,GBD Regions
+North Macedonia,MKD,region,Central Europe,32.6,2015,pm25,PM25,GBD Regions
+North Macedonia,MKD,region,Central Europe,30.5,2016,pm25,PM25,GBD Regions
+North Macedonia,MKD,region,Central Europe,31.4,2017,pm25,PM25,GBD Regions
+North Macedonia,MKD,region,Central Europe,30.9,2018,pm25,PM25,GBD Regions
+North Macedonia,MKD,region,Central Europe,30.3,2019,pm25,PM25,GBD Regions
+Ukraine,UKR,region,Eastern Europe,22.8,1990,pm25,PM25,GBD Regions
+Norway,NOR,region,Western Europe,10.7,1995,pm25,PM25,GBD Regions
+Norway,NOR,region,Western Europe,10.1,2000,pm25,PM25,GBD Regions
+Norway,NOR,region,Western Europe,8.17,2005,pm25,PM25,GBD Regions
+Norway,NOR,region,Western Europe,8.1,2010,pm25,PM25,GBD Regions
+Norway,NOR,region,Western Europe,9.05,2011,pm25,PM25,GBD Regions
+Norway,NOR,region,Western Europe,7.56,2012,pm25,PM25,GBD Regions
+Norway,NOR,region,Western Europe,7.28,2013,pm25,PM25,GBD Regions
+Norway,NOR,region,Western Europe,7.45,2014,pm25,PM25,GBD Regions
+Norway,NOR,region,Western Europe,7.01,2015,pm25,PM25,GBD Regions
+Norway,NOR,region,Western Europe,6.59,2016,pm25,PM25,GBD Regions
+Norway,NOR,region,Western Europe,6.65,2017,pm25,PM25,GBD Regions
+Norway,NOR,region,Western Europe,6.7,2018,pm25,PM25,GBD Regions
+Norway,NOR,region,Western Europe,6.64,2019,pm25,PM25,GBD Regions
+Albania,ALB,region,Central Europe,24.9,1990,pm25,PM25,GBD Regions
+Poland,POL,region,Central Europe,32.3,1995,pm25,PM25,GBD Regions
+Poland,POL,region,Central Europe,27.9,2000,pm25,PM25,GBD Regions
+Poland,POL,region,Central Europe,26.8,2005,pm25,PM25,GBD Regions
+Poland,POL,region,Central Europe,27.3,2010,pm25,PM25,GBD Regions
+Poland,POL,region,Central Europe,27.1,2011,pm25,PM25,GBD Regions
+Poland,POL,region,Central Europe,24.6,2012,pm25,PM25,GBD Regions
+Poland,POL,region,Central Europe,23.7,2013,pm25,PM25,GBD Regions
+Poland,POL,region,Central Europe,23.9,2014,pm25,PM25,GBD Regions
+Poland,POL,region,Central Europe,22.8,2015,pm25,PM25,GBD Regions
+Poland,POL,region,Central Europe,21.8,2016,pm25,PM25,GBD Regions
+Poland,POL,region,Central Europe,22.8,2017,pm25,PM25,GBD Regions
+Poland,POL,region,Central Europe,22.7,2018,pm25,PM25,GBD Regions
+Poland,POL,region,Central Europe,22.6,2019,pm25,PM25,GBD Regions
+Belarus,BLR,region,Eastern Europe,25.2,1990,pm25,PM25,GBD Regions
+Portugal,PRT,region,Western Europe,11.2,1995,pm25,PM25,GBD Regions
+Portugal,PRT,region,Western Europe,11.7,2000,pm25,PM25,GBD Regions
+Portugal,PRT,region,Western Europe,11,2005,pm25,PM25,GBD Regions
+Portugal,PRT,region,Western Europe,9.88,2010,pm25,PM25,GBD Regions
+Portugal,PRT,region,Western Europe,10.6,2011,pm25,PM25,GBD Regions
+Portugal,PRT,region,Western Europe,9.26,2012,pm25,PM25,GBD Regions
+Portugal,PRT,region,Western Europe,8.92,2013,pm25,PM25,GBD Regions
+Portugal,PRT,region,Western Europe,8.78,2014,pm25,PM25,GBD Regions
+Portugal,PRT,region,Western Europe,8.89,2015,pm25,PM25,GBD Regions
+Portugal,PRT,region,Western Europe,7.92,2016,pm25,PM25,GBD Regions
+Portugal,PRT,region,Western Europe,8.48,2017,pm25,PM25,GBD Regions
+Portugal,PRT,region,Western Europe,8.3,2018,pm25,PM25,GBD Regions
+Portugal,PRT,region,Western Europe,8.25,2019,pm25,PM25,GBD Regions
+Hungary,HUN,region,Central Europe,25.6,1990,pm25,PM25,GBD Regions
+Republic of Moldova,MDA,region,Eastern Europe,21.2,1995,pm25,PM25,GBD Regions
+Republic of Moldova,MDA,region,Eastern Europe,19.1,2000,pm25,PM25,GBD Regions
+Republic of Moldova,MDA,region,Eastern Europe,18.5,2005,pm25,PM25,GBD Regions
+Republic of Moldova,MDA,region,Eastern Europe,18.3,2010,pm25,PM25,GBD Regions
+Republic of Moldova,MDA,region,Eastern Europe,18.2,2011,pm25,PM25,GBD Regions
+Republic of Moldova,MDA,region,Eastern Europe,18,2012,pm25,PM25,GBD Regions
+Republic of Moldova,MDA,region,Eastern Europe,17.6,2013,pm25,PM25,GBD Regions
+Republic of Moldova,MDA,region,Eastern Europe,16.4,2014,pm25,PM25,GBD Regions
+Republic of Moldova,MDA,region,Eastern Europe,16.1,2015,pm25,PM25,GBD Regions
+Republic of Moldova,MDA,region,Eastern Europe,14.7,2016,pm25,PM25,GBD Regions
+Republic of Moldova,MDA,region,Eastern Europe,13.4,2017,pm25,PM25,GBD Regions
+Republic of Moldova,MDA,region,Eastern Europe,13.9,2018,pm25,PM25,GBD Regions
+Republic of Moldova,MDA,region,Eastern Europe,13.7,2019,pm25,PM25,GBD Regions
+Croatia,HRV,region,Central Europe,26.1,1990,pm25,PM25,GBD Regions
+Romania,ROU,region,Central Europe,21.3,1995,pm25,PM25,GBD Regions
+Romania,ROU,region,Central Europe,19.8,2000,pm25,PM25,GBD Regions
+Romania,ROU,region,Central Europe,18.7,2005,pm25,PM25,GBD Regions
+Romania,ROU,region,Central Europe,18.5,2010,pm25,PM25,GBD Regions
+Romania,ROU,region,Central Europe,19.5,2011,pm25,PM25,GBD Regions
+Romania,ROU,region,Central Europe,17.8,2012,pm25,PM25,GBD Regions
+Romania,ROU,region,Central Europe,16.5,2013,pm25,PM25,GBD Regions
+Romania,ROU,region,Central Europe,16.6,2014,pm25,PM25,GBD Regions
+Romania,ROU,region,Central Europe,16.1,2015,pm25,PM25,GBD Regions
+Romania,ROU,region,Central Europe,15.2,2016,pm25,PM25,GBD Regions
+Romania,ROU,region,Central Europe,15.7,2017,pm25,PM25,GBD Regions
+Romania,ROU,region,Central Europe,15.7,2018,pm25,PM25,GBD Regions
+Romania,ROU,region,Central Europe,15.7,2019,pm25,PM25,GBD Regions
+Czechia,CZE,region,Central Europe,26.1,1990,pm25,PM25,GBD Regions
+Russian Federation,RUS,region,Eastern Europe,17.1,1995,pm25,PM25,GBD Regions
+Russian Federation,RUS,region,Eastern Europe,15.4,2000,pm25,PM25,GBD Regions
+Russian Federation,RUS,region,Eastern Europe,14.3,2005,pm25,PM25,GBD Regions
+Russian Federation,RUS,region,Eastern Europe,15.3,2010,pm25,PM25,GBD Regions
+Russian Federation,RUS,region,Eastern Europe,13.6,2011,pm25,PM25,GBD Regions
+Russian Federation,RUS,region,Eastern Europe,13.7,2012,pm25,PM25,GBD Regions
+Russian Federation,RUS,region,Eastern Europe,13.9,2013,pm25,PM25,GBD Regions
+Russian Federation,RUS,region,Eastern Europe,13.9,2014,pm25,PM25,GBD Regions
+Russian Federation,RUS,region,Eastern Europe,12.9,2015,pm25,PM25,GBD Regions
+Russian Federation,RUS,region,Eastern Europe,12.2,2016,pm25,PM25,GBD Regions
+Russian Federation,RUS,region,Eastern Europe,11.5,2017,pm25,PM25,GBD Regions
+Russian Federation,RUS,region,Eastern Europe,11.6,2018,pm25,PM25,GBD Regions
+Russian Federation,RUS,region,Eastern Europe,11.6,2019,pm25,PM25,GBD Regions
+Slovenia,SVN,region,Central Europe,26.6,1990,pm25,PM25,GBD Regions
+San Marino,SMR,region,Western Europe,11.9,1995,pm25,PM25,GBD Regions
+San Marino,SMR,region,Western Europe,11.2,2000,pm25,PM25,GBD Regions
+San Marino,SMR,region,Western Europe,10.4,2005,pm25,PM25,GBD Regions
+San Marino,SMR,region,Western Europe,9.02,2010,pm25,PM25,GBD Regions
+San Marino,SMR,region,Western Europe,9.72,2011,pm25,PM25,GBD Regions
+San Marino,SMR,region,Western Europe,9.49,2012,pm25,PM25,GBD Regions
+San Marino,SMR,region,Western Europe,9.26,2013,pm25,PM25,GBD Regions
+San Marino,SMR,region,Western Europe,9.7,2014,pm25,PM25,GBD Regions
+San Marino,SMR,region,Western Europe,10,2015,pm25,PM25,GBD Regions
+San Marino,SMR,region,Western Europe,9.85,2016,pm25,PM25,GBD Regions
+San Marino,SMR,region,Western Europe,9.8,2017,pm25,PM25,GBD Regions
+San Marino,SMR,region,Western Europe,9.98,2018,pm25,PM25,GBD Regions
+San Marino,SMR,region,Western Europe,9.91,2019,pm25,PM25,GBD Regions
+Italy,ITA,region,Western Europe,26.9,1990,pm25,PM25,GBD Regions
+Serbia,SRB,region,Central Europe,35.2,1995,pm25,PM25,GBD Regions
+Serbia,SRB,region,Central Europe,33,2000,pm25,PM25,GBD Regions
+Serbia,SRB,region,Central Europe,31.4,2005,pm25,PM25,GBD Regions
+Serbia,SRB,region,Central Europe,31.4,2010,pm25,PM25,GBD Regions
+Serbia,SRB,region,Central Europe,33.9,2011,pm25,PM25,GBD Regions
+Serbia,SRB,region,Central Europe,30.5,2012,pm25,PM25,GBD Regions
+Serbia,SRB,region,Central Europe,28.7,2013,pm25,PM25,GBD Regions
+Serbia,SRB,region,Central Europe,28.2,2014,pm25,PM25,GBD Regions
+Serbia,SRB,region,Central Europe,27.9,2015,pm25,PM25,GBD Regions
+Serbia,SRB,region,Central Europe,25.3,2016,pm25,PM25,GBD Regions
+Serbia,SRB,region,Central Europe,26.4,2017,pm25,PM25,GBD Regions
+Serbia,SRB,region,Central Europe,25.9,2018,pm25,PM25,GBD Regions
+Serbia,SRB,region,Central Europe,25.4,2019,pm25,PM25,GBD Regions
+Slovakia,SVK,region,Central Europe,27.2,1990,pm25,PM25,GBD Regions
+Slovakia,SVK,region,Central Europe,26.7,1995,pm25,PM25,GBD Regions
+Slovakia,SVK,region,Central Europe,22.7,2000,pm25,PM25,GBD Regions
+Slovakia,SVK,region,Central Europe,22.2,2005,pm25,PM25,GBD Regions
+Slovakia,SVK,region,Central Europe,21.5,2010,pm25,PM25,GBD Regions
+Slovakia,SVK,region,Central Europe,22.6,2011,pm25,PM25,GBD Regions
+Slovakia,SVK,region,Central Europe,20.3,2012,pm25,PM25,GBD Regions
+Slovakia,SVK,region,Central Europe,19.6,2013,pm25,PM25,GBD Regions
+Slovakia,SVK,region,Central Europe,19.3,2014,pm25,PM25,GBD Regions
+Slovakia,SVK,region,Central Europe,19.1,2015,pm25,PM25,GBD Regions
+Slovakia,SVK,region,Central Europe,17.9,2016,pm25,PM25,GBD Regions
+Slovakia,SVK,region,Central Europe,18.2,2017,pm25,PM25,GBD Regions
+Slovakia,SVK,region,Central Europe,18.5,2018,pm25,PM25,GBD Regions
+Slovakia,SVK,region,Central Europe,18.4,2019,pm25,PM25,GBD Regions
+Bulgaria,BGR,region,Central Europe,28,1990,pm25,PM25,GBD Regions
+Slovenia,SVN,region,Central Europe,25.7,1995,pm25,PM25,GBD Regions
+Slovenia,SVN,region,Central Europe,22.2,2000,pm25,PM25,GBD Regions
+Slovenia,SVN,region,Central Europe,21.1,2005,pm25,PM25,GBD Regions
+Slovenia,SVN,region,Central Europe,19.2,2010,pm25,PM25,GBD Regions
+Slovenia,SVN,region,Central Europe,20.9,2011,pm25,PM25,GBD Regions
+Slovenia,SVN,region,Central Europe,18.6,2012,pm25,PM25,GBD Regions
+Slovenia,SVN,region,Central Europe,18.4,2013,pm25,PM25,GBD Regions
+Slovenia,SVN,region,Central Europe,18.1,2014,pm25,PM25,GBD Regions
+Slovenia,SVN,region,Central Europe,17.9,2015,pm25,PM25,GBD Regions
+Slovenia,SVN,region,Central Europe,16.5,2016,pm25,PM25,GBD Regions
+Slovenia,SVN,region,Central Europe,16.7,2017,pm25,PM25,GBD Regions
+Slovenia,SVN,region,Central Europe,17.1,2018,pm25,PM25,GBD Regions
+Slovenia,SVN,region,Central Europe,17,2019,pm25,PM25,GBD Regions
+Montenegro,MNE,region,Central Europe,33.1,1990,pm25,PM25,GBD Regions
+Spain,ESP,region,Western Europe,12.7,1995,pm25,PM25,GBD Regions
+Spain,ESP,region,Western Europe,13.7,2000,pm25,PM25,GBD Regions
+Spain,ESP,region,Western Europe,12.3,2005,pm25,PM25,GBD Regions
+Spain,ESP,region,Western Europe,11.5,2010,pm25,PM25,GBD Regions
+Spain,ESP,region,Western Europe,12.4,2011,pm25,PM25,GBD Regions
+Spain,ESP,region,Western Europe,11.2,2012,pm25,PM25,GBD Regions
+Spain,ESP,region,Western Europe,10.4,2013,pm25,PM25,GBD Regions
+Spain,ESP,region,Western Europe,9.83,2014,pm25,PM25,GBD Regions
+Spain,ESP,region,Western Europe,10.5,2015,pm25,PM25,GBD Regions
+Spain,ESP,region,Western Europe,9.58,2016,pm25,PM25,GBD Regions
+Spain,ESP,region,Western Europe,9.75,2017,pm25,PM25,GBD Regions
+Spain,ESP,region,Western Europe,9.77,2018,pm25,PM25,GBD Regions
+Spain,ESP,region,Western Europe,9.73,2019,pm25,PM25,GBD Regions
+Poland,POL,region,Central Europe,33.3,1990,pm25,PM25,GBD Regions
+Sweden,SWE,region,Western Europe,8.85,1995,pm25,PM25,GBD Regions
+Sweden,SWE,region,Western Europe,8.43,2000,pm25,PM25,GBD Regions
+Sweden,SWE,region,Western Europe,7.31,2005,pm25,PM25,GBD Regions
+Sweden,SWE,region,Western Europe,7.4,2010,pm25,PM25,GBD Regions
+Sweden,SWE,region,Western Europe,7.47,2011,pm25,PM25,GBD Regions
+Sweden,SWE,region,Western Europe,6.17,2012,pm25,PM25,GBD Regions
+Sweden,SWE,region,Western Europe,6.17,2013,pm25,PM25,GBD Regions
+Sweden,SWE,region,Western Europe,6.45,2014,pm25,PM25,GBD Regions
+Sweden,SWE,region,Western Europe,5.87,2015,pm25,PM25,GBD Regions
+Sweden,SWE,region,Western Europe,5.45,2016,pm25,PM25,GBD Regions
+Sweden,SWE,region,Western Europe,5.69,2017,pm25,PM25,GBD Regions
+Sweden,SWE,region,Western Europe,5.69,2018,pm25,PM25,GBD Regions
+Sweden,SWE,region,Western Europe,5.65,2019,pm25,PM25,GBD Regions
+Serbia,SRB,region,Central Europe,35.8,1990,pm25,PM25,GBD Regions
+Switzerland,CHE,region,Western Europe,16.7,1995,pm25,PM25,GBD Regions
+Switzerland,CHE,region,Western Europe,14.9,2000,pm25,PM25,GBD Regions
+Switzerland,CHE,region,Western Europe,13.1,2005,pm25,PM25,GBD Regions
+Switzerland,CHE,region,Western Europe,13.2,2010,pm25,PM25,GBD Regions
+Switzerland,CHE,region,Western Europe,13.8,2011,pm25,PM25,GBD Regions
+Switzerland,CHE,region,Western Europe,12.7,2012,pm25,PM25,GBD Regions
+Switzerland,CHE,region,Western Europe,12.5,2013,pm25,PM25,GBD Regions
+Switzerland,CHE,region,Western Europe,10.6,2014,pm25,PM25,GBD Regions
+Switzerland,CHE,region,Western Europe,11.6,2015,pm25,PM25,GBD Regions
+Switzerland,CHE,region,Western Europe,10.6,2016,pm25,PM25,GBD Regions
+Switzerland,CHE,region,Western Europe,9.85,2017,pm25,PM25,GBD Regions
+Switzerland,CHE,region,Western Europe,10.2,2018,pm25,PM25,GBD Regions
+Switzerland,CHE,region,Western Europe,9.9,2019,pm25,PM25,GBD Regions
+Bosnia and Herzegovina,BIH,region,Central Europe,36.7,1990,pm25,PM25,GBD Regions
+Ukraine,UKR,region,Eastern Europe,21.4,1995,pm25,PM25,GBD Regions
+Ukraine,UKR,region,Eastern Europe,19.4,2000,pm25,PM25,GBD Regions
+Ukraine,UKR,region,Eastern Europe,19,2005,pm25,PM25,GBD Regions
+Ukraine,UKR,region,Eastern Europe,18.8,2010,pm25,PM25,GBD Regions
+Ukraine,UKR,region,Eastern Europe,18.1,2011,pm25,PM25,GBD Regions
+Ukraine,UKR,region,Eastern Europe,17.5,2012,pm25,PM25,GBD Regions
+Ukraine,UKR,region,Eastern Europe,17.7,2013,pm25,PM25,GBD Regions
+Ukraine,UKR,region,Eastern Europe,17.3,2014,pm25,PM25,GBD Regions
+Ukraine,UKR,region,Eastern Europe,16.7,2015,pm25,PM25,GBD Regions
+Ukraine,UKR,region,Eastern Europe,14.9,2016,pm25,PM25,GBD Regions
+Ukraine,UKR,region,Eastern Europe,14.5,2017,pm25,PM25,GBD Regions
+Ukraine,UKR,region,Eastern Europe,14.6,2018,pm25,PM25,GBD Regions
+Ukraine,UKR,region,Eastern Europe,14.5,2019,pm25,PM25,GBD Regions
+North Macedonia,MKD,region,Central Europe,45.6,1990,pm25,PM25,GBD Regions
+United Kingdom,GBR,region,Western Europe,16.4,1995,pm25,PM25,GBD Regions
+United Kingdom,GBR,region,Western Europe,14.9,2000,pm25,PM25,GBD Regions
+United Kingdom,GBR,region,Western Europe,13.3,2005,pm25,PM25,GBD Regions
+United Kingdom,GBR,region,Western Europe,12.4,2010,pm25,PM25,GBD Regions
+United Kingdom,GBR,region,Western Europe,13,2011,pm25,PM25,GBD Regions
+United Kingdom,GBR,region,Western Europe,11.4,2012,pm25,PM25,GBD Regions
+United Kingdom,GBR,region,Western Europe,11.4,2013,pm25,PM25,GBD Regions
+United Kingdom,GBR,region,Western Europe,10.9,2014,pm25,PM25,GBD Regions
+United Kingdom,GBR,region,Western Europe,10.4,2015,pm25,PM25,GBD Regions
+United Kingdom,GBR,region,Western Europe,10.2,2016,pm25,PM25,GBD Regions
+United Kingdom,GBR,region,Western Europe,10.4,2017,pm25,PM25,GBD Regions
+United Kingdom,GBR,region,Western Europe,10.2,2018,pm25,PM25,GBD Regions
+United Kingdom,GBR,region,Western Europe,10.1,2019,pm25,PM25,GBD Regions
