@@ -9967,3 +9967,175 @@ Deaths,Number,Air pollution,All causes,Norway,70+ years,Both sexes,2019,358.03,6
 Deaths,Number,Ambient particulate matter pollution,All causes,Norway,70+ years,Both sexes,2019,306.18,534.39,115.58
 Deaths,Number,Household air pollution from solid fuels,All causes,Norway,70+ years,Both sexes,2019,0.84,3.06,0.11
 Deaths,Number,Ambient ozone pollution,All causes,Norway,70+ years,Both sexes,2019,52.38,101.08,18.89
+Deaths,Rate,All risk factors,All causes,Austria,Age-standardized,Both sexes,1990,425.92,450.35,403.64
+Deaths,Rate,All risk factors,All causes,Germany,All ages,Both sexes,1990,792.72,818.06,762.60
+Deaths,Rate,All risk factors,All causes,Finland,Age-standardized,Both sexes,1990,455.85,473.52,435.59
+Deaths,Rate,All risk factors,All causes,Cyprus,All ages,Both sexes,1990,481.96,501.95,462.56
+Deaths,Rate,All risk factors,All causes,Cyprus,Age-standardized,Both sexes,1990,603.82,629.75,574.88
+Deaths,Rate,All risk factors,All causes,Iceland,All ages,Both sexes,1990,414.06,434.74,392.72
+Deaths,Rate,All risk factors,All causes,Bulgaria,All ages,Both sexes,1990,968.08,1008.71,924.32
+Deaths,Rate,All risk factors,All causes,Bulgaria,Age-standardized,Both sexes,1990,814.61,848.55,774.94
+Deaths,Rate,All risk factors,All causes,Germany,Age-standardized,Both sexes,1990,497.09,512.79,478.37
+Deaths,Rate,All risk factors,All causes,Finland,All ages,Both sexes,1990,636.67,660.69,610.81
+Deaths,Rate,All risk factors,All causes,Iceland,Age-standardized,Both sexes,1990,355.54,373.09,337.38
+Deaths,Rate,All risk factors,All causes,Albania,All ages,Both sexes,1990,335.22,349.47,320.47
+Deaths,Rate,All risk factors,All causes,North Macedonia,All ages,Both sexes,1990,607.59,631.66,585.18
+Deaths,Rate,All risk factors,All causes,Albania,Age-standardized,Both sexes,1990,553.82,576.08,529.38
+Deaths,Rate,All risk factors,All causes,Czechia,All ages,Both sexes,1990,911.50,941.29,876.71
+Deaths,Rate,All risk factors,All causes,Czechia,Age-standardized,Both sexes,1990,718.74,743.57,690.40
+Deaths,Rate,All risk factors,All causes,North Macedonia,Age-standardized,Both sexes,1990,765.35,796.94,733.98
+Deaths,Rate,All risk factors,All causes,Luxembourg,All ages,Both sexes,1990,645.48,670.62,618.73
+Deaths,Rate,All risk factors,All causes,Luxembourg,Age-standardized,Both sexes,1990,468.26,486.96,448.03
+Deaths,Rate,All risk factors,All causes,Sweden,Age-standardized,Both sexes,1990,369.26,384.28,352.17
+Deaths,Rate,All risk factors,All causes,Latvia,All ages,Both sexes,1990,848.81,880.97,814.00
+Deaths,Rate,All risk factors,All causes,Latvia,Age-standardized,Both sexes,1990,657.80,683.65,630.87
+Deaths,Rate,All risk factors,All causes,Republic of Moldova,Age-standardized,Both sexes,1990,774.77,803.36,741.41
+Deaths,Rate,All risk factors,All causes,Republic of Moldova,All ages,Both sexes,1990,659.62,681.59,635.56
+Deaths,Rate,All risk factors,All causes,Ukraine,Age-standardized,Both sexes,1990,675.04,698.07,646.59
+Deaths,Rate,All risk factors,All causes,Poland,All ages,Both sexes,1990,701.95,723.01,679.04
+Deaths,Rate,All risk factors,All causes,Italy,All ages,Both sexes,1990,617.71,640.21,594.59
+Deaths,Rate,All risk factors,All causes,Austria,All ages,Both sexes,1990,649.52,687.22,615.14
+Deaths,Rate,All risk factors,All causes,France,All ages,Both sexes,1990,505.17,524.96,483.30
+Deaths,Rate,All risk factors,All causes,France,Age-standardized,Both sexes,1990,348.94,361.99,334.15
+Deaths,Rate,All risk factors,All causes,Belarus,All ages,Both sexes,1990,718.85,743.34,688.88
+Deaths,Rate,All risk factors,All causes,Belarus,Age-standardized,Both sexes,1990,616.45,638.51,589.28
+Deaths,Rate,All risk factors,All causes,United Kingdom,Age-standardized,Both sexes,1990,480.15,493.73,464.59
+Deaths,Rate,All risk factors,All causes,Ukraine,All ages,Both sexes,1990,829.05,855.41,798.26
+Deaths,Rate,All risk factors,All causes,Monaco,Age-standardized,Both sexes,1990,348.03,405.31,284.61
+Deaths,Rate,All risk factors,All causes,Netherlands,All ages,Both sexes,1990,551.79,568.80,532.50
+Deaths,Rate,All risk factors,All causes,Croatia,Age-standardized,Both sexes,1990,652.84,686.73,617.74
+Deaths,Rate,All risk factors,All causes,Slovenia,All ages,Both sexes,1990,596.94,747.71,470.34
+Deaths,Rate,All risk factors,All causes,Poland,Age-standardized,Both sexes,1990,659.50,680.80,635.08
+Deaths,Rate,All risk factors,All causes,San Marino,All ages,Both sexes,1990,379.17,432.06,328.63
+Deaths,Rate,All risk factors,All causes,Denmark,All ages,Both sexes,1990,796.93,818.32,770.22
+Deaths,Rate,All risk factors,All causes,Denmark,Age-standardized,Both sexes,1990,495.69,509.10,479.32
+Deaths,Rate,All risk factors,All causes,Serbia,All ages,Both sexes,1990,745.48,768.38,718.98
+Deaths,Rate,All risk factors,All causes,Estonia,Age-standardized,Both sexes,1990,668.77,696.20,637.63
+Deaths,Rate,All risk factors,All causes,Greece,Age-standardized,Both sexes,1990,433.67,449.81,414.84
+Deaths,Rate,All risk factors,All causes,Belgium,All ages,Both sexes,1990,645.09,669.73,618.44
+Deaths,Rate,All risk factors,All causes,Belgium,Age-standardized,Both sexes,1990,422.13,438.67,404.23
+Deaths,Rate,All risk factors,All causes,United Kingdom,All ages,Both sexes,1990,761.01,782.72,736.41
+Deaths,Rate,All risk factors,All causes,Ireland,All ages,Both sexes,1990,576.30,591.67,557.39
+Deaths,Rate,All risk factors,All causes,Ireland,Age-standardized,Both sexes,1990,529.15,544.62,510.60
+Deaths,Rate,All risk factors,All causes,Hungary,All ages,Both sexes,1990,984.52,1010.81,957.40
+Deaths,Rate,All risk factors,All causes,Croatia,All ages,Both sexes,1990,757.74,798.95,716.73
+Deaths,Rate,All risk factors,All causes,Bosnia and Herzegovina,All ages,Both sexes,1990,430.61,445.19,415.05
+Deaths,Rate,All risk factors,All causes,Bosnia and Herzegovina,Age-standardized,Both sexes,1990,577.86,599.89,552.36
+Deaths,Rate,All risk factors,All causes,Portugal,All ages,Both sexes,1990,616.24,643.43,590.12
+Deaths,Rate,All risk factors,All causes,Portugal,Age-standardized,Both sexes,1990,493.59,517.07,470.04
+Deaths,Rate,All risk factors,All causes,Sweden,All ages,Both sexes,1990,684.02,712.06,651.03
+Deaths,Rate,All risk factors,All causes,Romania,All ages,Both sexes,1990,756.14,775.62,732.88
+Deaths,Rate,All risk factors,All causes,Montenegro,All ages,Both sexes,1990,493.08,525.06,462.61
+Deaths,Rate,All risk factors,All causes,Hungary,Age-standardized,Both sexes,1990,760.83,782.36,737.11
+Deaths,Rate,All risk factors,All causes,Greece,All ages,Both sexes,1990,597.68,618.96,573.43
+Deaths,Rate,All risk factors,All causes,Netherlands,Age-standardized,Both sexes,1990,411.86,424.75,397.22
+Deaths,Rate,All risk factors,All causes,Lithuania,All ages,Both sexes,1990,708.05,734.85,679.55
+Deaths,Rate,All risk factors,All causes,Lithuania,Age-standardized,Both sexes,1990,595.09,617.90,569.25
+Deaths,Rate,All risk factors,All causes,Malta,All ages,Both sexes,1990,490.21,513.15,467.31
+Deaths,Rate,All risk factors,All causes,Monaco,All ages,Both sexes,1990,872.95,1010.61,715.54
+Deaths,Rate,All risk factors,All causes,Slovenia,Age-standardized,Both sexes,1990,506.64,628.20,403.24
+Deaths,Rate,All risk factors,All causes,San Marino,Age-standardized,Both sexes,1990,281.04,320.30,242.86
+Deaths,Rate,All risk factors,All causes,Italy,Age-standardized,Both sexes,1990,411.70,427.26,394.99
+Deaths,Rate,All risk factors,All causes,Russian Federation,All ages,Both sexes,1990,726.68,750.90,700.86
+Deaths,Rate,All risk factors,All causes,Serbia,Age-standardized,Both sexes,1990,719.68,743.91,691.55
+Deaths,Rate,All risk factors,All causes,Montenegro,Age-standardized,Both sexes,1990,536.79,571.64,502.05
+Deaths,Rate,All risk factors,All causes,Estonia,All ages,Both sexes,1990,820.64,854.03,783.81
+Deaths,Rate,All risk factors,All causes,Malta,Age-standardized,Both sexes,1990,456.31,477.98,433.39
+Deaths,Rate,All risk factors,All causes,Russian Federation,Age-standardized,Both sexes,1990,684.11,709.24,655.74
+Deaths,Rate,All risk factors,All causes,Andorra,All ages,Both sexes,1990,268.45,348.08,216.88
+Deaths,Rate,All risk factors,All causes,Andorra,Age-standardized,Both sexes,1990,321.47,406.96,265.19
+Deaths,Rate,All risk factors,All causes,Spain,All ages,Both sexes,1990,530.45,550.79,508.60
+Deaths,Rate,All risk factors,All causes,Spain,Age-standardized,Both sexes,1990,397.79,413.48,381.00
+Deaths,Rate,All risk factors,All causes,Norway,All ages,Both sexes,1990,660.61,686.61,629.37
+Deaths,Rate,All risk factors,All causes,Romania,Age-standardized,Both sexes,1990,745.95,768.84,717.49
+Deaths,Rate,All risk factors,All causes,Slovakia,All ages,Both sexes,1990,746.29,770.53,719.87
+Deaths,Rate,All risk factors,All causes,Slovakia,Age-standardized,Both sexes,1990,697.75,721.10,669.67
+Deaths,Rate,All risk factors,All causes,Norway,Age-standardized,Both sexes,1990,393.20,408.13,375.74
+Deaths,Rate,All risk factors,All causes,Switzerland,All ages,Both sexes,1990,570.45,591.58,544.69
+Deaths,Rate,All risk factors,All causes,Switzerland,Age-standardized,Both sexes,1990,365.27,378.56,348.62
+Deaths,Rate,All risk factors,All causes,Croatia,Age-standardized,Both sexes,2019,396.17,481.81,324.20
+Deaths,Rate,All risk factors,All causes,Hungary,All ages,Both sexes,2019,927.61,1092.73,784.27
+Deaths,Rate,All risk factors,All causes,Hungary,Age-standardized,Both sexes,2019,456.43,541.00,384.09
+Deaths,Rate,All risk factors,All causes,Italy,All ages,Both sexes,2019,628.20,665.18,583.56
+Deaths,Rate,All risk factors,All causes,Montenegro,All ages,Both sexes,2019,807.71,930.88,702.77
+Deaths,Rate,All risk factors,All causes,Romania,All ages,Both sexes,2019,966.36,1131.18,823.93
+Deaths,Rate,All risk factors,All causes,Luxembourg,All ages,Both sexes,2019,386.41,435.68,344.63
+Deaths,Rate,All risk factors,All causes,Luxembourg,Age-standardized,Both sexes,2019,221.20,250.59,197.76
+Deaths,Rate,All risk factors,All causes,Greece,Age-standardized,Both sexes,2019,292.62,307.39,277.26
+Deaths,Rate,All risk factors,All causes,Monaco,Age-standardized,Both sexes,2019,268.19,308.71,220.07
+Deaths,Rate,All risk factors,All causes,Malta,All ages,Both sexes,2019,517.45,572.07,467.72
+Deaths,Rate,All risk factors,All causes,Czechia,All ages,Both sexes,2019,720.84,853.85,603.79
+Deaths,Rate,All risk factors,All causes,Czechia,Age-standardized,Both sexes,2019,358.21,425.10,299.71
+Deaths,Rate,All risk factors,All causes,Ireland,All ages,Both sexes,2019,379.91,403.96,356.92
+Deaths,Rate,All risk factors,All causes,Ireland,Age-standardized,Both sexes,2019,245.24,260.66,230.37
+Deaths,Rate,All risk factors,All causes,North Macedonia,All ages,Both sexes,2019,842.45,1018.12,693.77
+Deaths,Rate,All risk factors,All causes,North Macedonia,Age-standardized,Both sexes,2019,693.60,819.77,580.09
+Deaths,Rate,All risk factors,All causes,Iceland,All ages,Both sexes,2019,342.53,376.34,311.18
+Deaths,Rate,All risk factors,All causes,Iceland,Age-standardized,Both sexes,2019,191.31,210.86,174.07
+Deaths,Rate,All risk factors,All causes,Serbia,All ages,Both sexes,2019,976.87,1166.81,807.09
+Deaths,Rate,All risk factors,All causes,Belarus,All ages,Both sexes,2019,938.03,1148.46,768.58
+Deaths,Rate,All risk factors,All causes,Netherlands,All ages,Both sexes,2019,503.02,531.29,472.72
+Deaths,Rate,All risk factors,All causes,Austria,All ages,Both sexes,2019,571.87,601.04,535.20
+Deaths,Rate,All risk factors,All causes,Romania,Age-standardized,Both sexes,2019,494.56,579.85,421.16
+Deaths,Rate,All risk factors,All causes,Portugal,All ages,Both sexes,2019,596.32,635.96,553.74
+Deaths,Rate,All risk factors,All causes,Sweden,All ages,Both sexes,2019,524.56,552.84,494.05
+Deaths,Rate,All risk factors,All causes,United Kingdom,All ages,Both sexes,2019,517.32,544.48,490.76
+Deaths,Rate,All risk factors,All causes,Italy,Age-standardized,Both sexes,2019,222.06,234.01,208.58
+Deaths,Rate,All risk factors,All causes,Serbia,Age-standardized,Both sexes,2019,585.60,695.32,488.17
+Deaths,Rate,All risk factors,All causes,Andorra,All ages,Both sexes,2019,416.96,510.71,335.26
+Deaths,Rate,All risk factors,All causes,Montenegro,Age-standardized,Both sexes,2019,542.86,621.95,474.30
+Deaths,Rate,All risk factors,All causes,Malta,Age-standardized,Both sexes,2019,235.05,261.17,211.62
+Deaths,Rate,All risk factors,All causes,Belarus,Age-standardized,Both sexes,2019,561.38,686.69,459.67
+Deaths,Rate,All risk factors,All causes,Netherlands,Age-standardized,Both sexes,2019,239.57,252.62,225.39
+Deaths,Rate,All risk factors,All causes,Slovenia,All ages,Both sexes,2019,583.12,736.41,471.42
+Deaths,Rate,All risk factors,All causes,Slovenia,Age-standardized,Both sexes,2019,255.24,323.58,205.47
+Deaths,Rate,All risk factors,All causes,Portugal,Age-standardized,Both sexes,2019,238.48,253.43,223.29
+Deaths,Rate,All risk factors,All causes,Austria,Age-standardized,Both sexes,2019,253.88,266.02,239.36
+Deaths,Rate,All risk factors,All causes,Latvia,All ages,Both sexes,2019,994.24,1152.02,866.34
+Deaths,Rate,All risk factors,All causes,Republic of Moldova,All ages,Both sexes,2019,808.49,906.25,723.89
+Deaths,Rate,All risk factors,All causes,Andorra,Age-standardized,Both sexes,2019,229.51,283.47,182.64
+Deaths,Rate,All risk factors,All causes,Cyprus,Age-standardized,Both sexes,2019,308.67,340.75,278.48
+Deaths,Rate,All risk factors,All causes,Slovakia,All ages,Both sexes,2019,684.02,828.62,556.76
+Deaths,Rate,All risk factors,All causes,Ukraine,All ages,Both sexes,2019,1162.25,1331.48,1016.17
+Deaths,Rate,All risk factors,All causes,San Marino,All ages,Both sexes,2019,474.51,632.08,338.32
+Deaths,Rate,All risk factors,All causes,San Marino,Age-standardized,Both sexes,2019,212.96,291.37,149.11
+Deaths,Rate,All risk factors,All causes,Estonia,All ages,Both sexes,2019,834.68,1016.46,683.79
+Deaths,Rate,All risk factors,All causes,Albania,All ages,Both sexes,2019,568.97,717.34,447.91
+Deaths,Rate,All risk factors,All causes,Latvia,Age-standardized,Both sexes,2019,461.30,536.14,400.25
+Deaths,Rate,All risk factors,All causes,Spain,All ages,Both sexes,2019,509.56,540.65,475.01
+Deaths,Rate,All risk factors,All causes,Switzerland,All ages,Both sexes,2019,456.01,483.86,424.33
+Deaths,Rate,All risk factors,All causes,Switzerland,Age-standardized,Both sexes,2019,197.58,208.97,185.22
+Deaths,Rate,All risk factors,All causes,Sweden,Age-standardized,Both sexes,2019,221.87,233.06,210.48
+Deaths,Rate,All risk factors,All causes,Slovakia,Age-standardized,Both sexes,2019,417.78,505.88,340.68
+Deaths,Rate,All risk factors,All causes,Estonia,Age-standardized,Both sexes,2019,393.44,481.60,321.21
+Deaths,Rate,All risk factors,All causes,Poland,All ages,Both sexes,2019,690.14,798.03,591.86
+Deaths,Rate,All risk factors,All causes,Poland,Age-standardized,Both sexes,2019,373.45,432.81,320.14
+Deaths,Rate,All risk factors,All causes,United Kingdom,Age-standardized,Both sexes,2019,259.17,271.68,246.88
+Deaths,Rate,All risk factors,All causes,Norway,All ages,Both sexes,2019,395.57,422.41,367.90
+Deaths,Rate,All risk factors,All causes,Norway,Age-standardized,Both sexes,2019,198.70,211.12,185.63
+Deaths,Rate,All risk factors,All causes,Belgium,All ages,Both sexes,2019,555.88,585.64,522.26
+Deaths,Rate,All risk factors,All causes,Spain,Age-standardized,Both sexes,2019,210.32,221.95,197.35
+Deaths,Rate,All risk factors,All causes,Denmark,All ages,Both sexes,2019,564.50,592.76,535.18
+Deaths,Rate,All risk factors,All causes,Lithuania,All ages,Both sexes,2019,931.35,1097.91,787.59
+Deaths,Rate,All risk factors,All causes,Belgium,Age-standardized,Both sexes,2019,247.58,259.76,234.51
+Deaths,Rate,All risk factors,All causes,Lithuania,Age-standardized,Both sexes,2019,435.21,514.12,367.04
+Deaths,Rate,All risk factors,All causes,Denmark,Age-standardized,Both sexes,2019,270.52,283.87,257.12
+Deaths,Rate,All risk factors,All causes,Cyprus,All ages,Both sexes,2019,399.39,441.32,360.19
+Deaths,Rate,All risk factors,All causes,Finland,All ages,Both sexes,2019,610.84,649.82,566.43
+Deaths,Rate,All risk factors,All causes,Germany,Age-standardized,Both sexes,2019,282.06,295.19,268.08
+Deaths,Rate,All risk factors,All causes,Finland,Age-standardized,Both sexes,2019,251.70,266.87,234.29
+Deaths,Rate,All risk factors,All causes,Ukraine,Age-standardized,Both sexes,2019,699.38,801.76,612.50
+Deaths,Rate,All risk factors,All causes,Croatia,All ages,Both sexes,2019,842.30,1021.51,690.81
+Deaths,Rate,All risk factors,All causes,Republic of Moldova,Age-standardized,Both sexes,2019,528.32,590.83,474.18
+Deaths,Rate,All risk factors,All causes,Bosnia and Herzegovina,All ages,Both sexes,2019,818.57,995.63,667.76
+Deaths,Rate,All risk factors,All causes,Albania,Age-standardized,Both sexes,2019,379.56,476.49,302.28
+Deaths,Rate,All risk factors,All causes,Monaco,All ages,Both sexes,2019,764.71,864.54,637.11
+Deaths,Rate,All risk factors,All causes,Greece,All ages,Both sexes,2019,780.88,823.79,734.96
+Deaths,Rate,All risk factors,All causes,Bosnia and Herzegovina,Age-standardized,Both sexes,2019,483.73,584.23,396.98
+Deaths,Rate,All risk factors,All causes,Russian Federation,All ages,Both sexes,2019,847.46,953.39,747.84
+Deaths,Rate,All risk factors,All causes,France,All ages,Both sexes,2019,474.38,501.92,440.85
+Deaths,Rate,All risk factors,All causes,Russian Federation,Age-standardized,Both sexes,2019,549.74,618.89,485.43
+Deaths,Rate,All risk factors,All causes,Bulgaria,All ages,Both sexes,2019,1345.76,1616.88,1117.48
+Deaths,Rate,All risk factors,All causes,France,Age-standardized,Both sexes,2019,200.55,210.70,189.05
+Deaths,Rate,All risk factors,All causes,Bulgaria,Age-standardized,Both sexes,2019,656.30,789.36,543.54
+Deaths,Rate,All risk factors,All causes,Germany,All ages,Both sexes,2019,700.82,735.91,663.53
