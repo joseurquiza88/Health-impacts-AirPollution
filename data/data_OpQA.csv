@@ -1,0 +1,35 @@
+country,monitoreo_actual,ad-hoc_estudios,monitoreo_pasado,C1,C2,C3,C4,all_criteria,C1_C2,all_null,all_True,c1_c2_c3,REGION,region_2,share_data
+Antigua and Barbuda,no,NA,NA,NA,NA,NA,NA,0,0,1,0,0,North America,latinoamerica,no_monitor
+Argentina,yes,NA,NA,no,yes,no,no,0,0,0,0,0,South America,latinoamerica,monitor_yes_share
+Bahamas,no,NA,NA,NA,NA,NA,NA,0,0,1,0,0,North America,latinoamerica,no_monitor
+Barbados,yes,NA,NA,no,yes,no,no,0,0,0,0,0,North America,latinoamerica,monitor_yes_share
+Belize,no,no,no,NA,NA,NA,NA,0,0,1,0,0,North America  (Central),latinoamerica,no_monitor
+Bolivia,yes,NA,NA,yes,no,no,no,0,0,0,0,0,South America,latinoamerica,monitor_yes_share
+Brazil,yes,NA,NA,yes,no,yes,no,0,0,0,0,0,South America,latinoamerica,monitor_yes_share
+Chile,yes,NA,NA,yes,yes,yes,yes,1,1,0,1,1,South America,latinoamerica,monitor_yes_share
+Colombia,yes,NA,NA,yes,yes,yes,yes,1,1,0,1,1,South America,latinoamerica,monitor_yes_share
+Costa Rica,yes,yes,NA,NA,NA,NA,NA,0,0,1,0,0,North America (Central),latinoamerica,monitor_not_share
+Cuba,yes,NA,NA,yes,no,no,no,0,0,0,0,0,North America,latinoamerica,monitor_yes_share
+Dominica,no,no,no,NA,NA,NA,NA,0,0,1,0,0,North America,latinoamerica,no_monitor
+Dominican Republic,yes,NA,NA,NA,NA,NA,NA,0,0,1,0,0,North America,latinoamerica,monitor_not_share
+Ecuador,yes,NA,NA,no,yes,yes,no,0,1,0,0,0,South America,latinoamerica,monitor_yes_share
+Grenada,no,no,no,NA,NA,NA,NA,0,0,1,0,0,North America,latinoamerica,no_monitor
+El Salvador,yes,NA,NA,yes,yes,yes,no,0,1,0,0,1,North America,latinoamerica,monitor_yes_share
+Guatemala,yes,NA,NA,NA,NA,NA,NA,0,0,1,0,0,North America (Central),latinoamerica,monitor_not_share
+Guyana,yes,NA,NA,yes,yes,yes,no,0,1,0,0,1,South America,latinoamerica,monitor_yes_share
+Haiti,no,NA,NA,NA,NA,NA,NA,0,0,1,0,0,North America,latinoamerica,no_monitor
+Honduras,no,NA,NA,NA,NA,NA,NA,0,0,1,0,0,North America (Central),latinoamerica,no_monitor
+Jamaica,yes,NA,NA,yes,no,no,no,0,0,0,0,0,North America,latinoamerica,monitor_yes_share
+Mexico,yes,NA,NA,yes,yes,yes,yes,1,1,0,1,1,North America,latinoamerica,monitor_yes_share
+Nicaragua,no,no,no,NA,NA,NA,NA,0,0,1,0,0,North America (Central),latinoamerica,no_monitor
+Panama,no,no,no,NA,NA,NA,NA,0,0,1,0,0,North America (Central),latinoamerica,no_monitor
+Paraguay,yes,NA,NA,NA,NA,NA,NA,0,0,1,0,0,South America,latinoamerica,monitor_not_share
+Peru,yes,NA,NA,yes,yes,yes,no,0,1,0,0,1,South America,latinoamerica,monitor_yes_share
+Puerto Rico,yes,NA,NA,yes,yes,yes,yes,1,1,0,1,1,North America,latinoamerica,monitor_yes_share
+St. Kitts and Nevis,no,no,no,NA,NA,NA,NA,0,0,1,0,0,North America,latinoamerica,no_monitor
+St. Lucia,no,no,no,NA,NA,NA,NA,0,0,1,0,0,North America,latinoamerica,no_monitor
+St. Vincent and the Grenadines,no,no,no,NA,NA,NA,NA,0,0,1,0,0,North America,latinoamerica,no_monitor
+Suriname,no,no,no,NA,NA,NA,NA,0,0,1,0,0,South America,latinoamerica,no_monitor
+Trinidad and Tobago,yes,NA,NA,yes,no,yes,no,0,0,0,0,0,North America,latinoamerica,monitor_yes_share
+Uruguay,yes,NA,NA,NA,NA,NA,NA,0,0,1,0,0,South America,latinoamerica,monitor_not_share
+Venezuela,no,NA,NA,NA,NA,NA,NA,0,0,1,0,0,South America,latinoamerica,no_monitor
