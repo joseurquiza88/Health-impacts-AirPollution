@@ -1,6 +1,13 @@
-Air pollution is the fourth most significant global risk factor for human health. Despite decreasing levels, air pollution continues to pose a substantial burden on health and the economy. Here, we present a comprehensive analysis of temporal and spatial trends in PM2.5 and ozone concentrations, with a focus on Latin American and Caribbean countries, from 1990 to 2019. We specifically emphasize ambient PM2.5 (aPM2.5) concentrations due to their greater impact on health. We gathered data from the 2019 Global Burden of Disease Study, including disability-adjusted life years (DALY) for general health, as well as years lost to ischemic heart disease (IHD), stroke, and DALY specific to tracheal, bronchus, and lung cancer. Additionally, we collected years of life lost (YLL) and mortality attributable to air pollution for 43 European countries between 1990 and 2019. Concentrations of ambient particulate matter (aPM2.5), ozone, and household air pollution from solid fuels were sourced from the 2020 State of Global Air. We analyzed changes in air pollution parameters, along with DALY, YLL, and mortality related to air pollution, considering gross national income (GNI) and the sociodemographic index (SDI). Using an innovative calculation, we employed changes in the aPM2.5 ratio (PMR) and DALY rate ratio (DARR) to assess each country's ability to reduce its aPM2.5 pollution and DALYs at least to the extent of the European median decrease within the analyzed period. Additionally, we compared these metrics from the region with global and European statistics. We attempted to replicate the studies conducted by Juginović et al.,2021 and Shaowei Sang et al., 2022, comparing the results obtained in Latin America and the Caribbean with those from Europe and globally.
+# 🌎 Análisis de Calidad del Aire y Salud en América Latina
 
-Reference paper: 
-- Juginović, A., Vuković, M., Aranza, I. et al. Health impacts of air pollution exposure from 1990 to 2019 in 43 European countries. Sci Rep 11, 22516 (2021). https://doi.org/10.1038/s41598-021-01802-5
-- Shaowei Sang, Chong Chu, Tongchao Zhang, Hui Chen, Xiaorong Yang, The global burden of disease attributable to ambient fine particulate matter in 204 countries and territories, 1990–2019: A systematic analysis of the Global Burden of Disease Study 2019, Ecotoxicology and Environmental Safety,
-Volume 238, 2022, 113588, ISSN 0147-6513, https://doi.org/10.1016/j.ecoenv.2022.113588. (https://www.sciencedirect.com/science/article/pii/S0147651322004286)
+Este repositorio contiene **análisis estadísticos, visualizaciones y procesamiento de datos** relacionados con la contaminación atmosférica y sus impactos en la salud en países de América Latina y el Caribe.
+
+Se centra en el estudio de **PM2.5 ambiental (aPM2.5)** y **ozono**, utilizando datos desde 1990 hasta 2019, incluyendo métricas de salud como:
+
+- Años de vida ajustados por discapacidad (DALY)  
+- Años de vida perdidos (YLL)  
+- Mortalidad por enfermedades cardiovasculares, respiratorias y cáncer de pulmón  
+
+Los análisis consideran también indicadores socioeconómicos como **Ingreso Nacional Bruto (GNI)** y **Índice Sociodemográfico (SDI)**, y comparan la evolución de la región con estadísticas globales y europeas.  
+
+El repositorio reproduce y adapta metodologías de estudios previos (Juginović et al., 2021; Shaowei Sang et al., 2022) para evaluar tendencias temporales y espaciales de la contaminación y su relación con la salud, proporcionando una **herramienta flexible para análisis comparativos y visualización de datos ambientales y de salud en Latinoamérica**.
